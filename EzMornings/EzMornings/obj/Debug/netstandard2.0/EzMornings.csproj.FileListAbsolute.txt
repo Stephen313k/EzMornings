@@ -1,0 +1,14 @@
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\bin\Debug\netstandard2.0\EzMornings.deps.json
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\bin\Debug\netstandard2.0\EzMornings.dll
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\bin\Debug\netstandard2.0\EzMornings.pdb
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.csproj.CoreCompileInputs.cache
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.AssemblyInfoInputs.cache
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.AssemblyInfo.cs
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.dll
+c:\users\stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.pdb
+C:\Users\Stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\EzMornings.csprojAssemblyReference.cache
+C:\Users\Stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Stephen\source\repos\EzMornings\EzMornings\EzMornings\obj\Debug\netstandard2.0\Details.xaml.g.cs

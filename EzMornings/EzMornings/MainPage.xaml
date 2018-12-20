@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EzMornings"
+             x:Class="EzMornings.MainPage">
+
+    <ContentPage.Content>
+
+        <StackLayout Margin="0, 20, 0, 0">
+
+            <Image x:Name="LoginIcon" Source="easymornings.png" HeightRequest="60 " Margin="0, 20, 220, 0"/>
+
+            <StackLayout>
+                <!-- textbox not working, so im using label-->
+                <!--'TextBox' was not found. Verify that you are not missing an assembly reference and that all referenced assemblies have been built -->
+                <StackLayout>
+                    <Label Text="The average sleep cycle is 90 minutes long. There are 5 sleep cycles in a typical night of sleep. 90 Minutes X 5 sleep cycles = 7.5 hours.  Aim to be asleep 7.5 hours before your desired wakeup time 
+                                                            The average time to fall asleep is 15 minutes." 
+                       Margin="30, 30, 30, 0" TextColor="White" BackgroundColor="Transparent"></Label>
+                </StackLayout>
+                <!-- wake up at-->
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Wake up at:" Font="24" Margin="55, 30, 0, 0" TextColor="White" ></Label>
+            </StackLayout>
+
+            <StackLayout  Orientation="Horizontal">
+                <TimePicker x:Name="timeBinding" Scale ="1.5"   Margin="220, -45, 60, 0" TextColor="White"/>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Sleep at:" Font="24" Margin="55, 60, 0, 0" TextColor="White"></Label>
+        </StackLayout>
+
+        </StackLayout>
+         </StackLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>

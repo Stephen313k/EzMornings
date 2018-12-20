@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EzMornings.Details">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label BackgroundColor="Transparent" Text="The average sleep cycle is 90 minutes long"></Label>
+            <Label BackgroundColor="Transparent" Text="There are 5 sleep cycles in a typical night of sleep"></Label>
+            <Label BackgroundColor="Transparent" Text="90 Minutes X 5 sleep cycles = 7.5 hours"></Label>
+            <Label BackgroundColor="Transparent" Text="Aim to be asleep 7.5 hours before your desired wakeup time"></Label>
+            <Label BackgroundColor="Transparent" Text="The average time to fall asleep is 15 minutes."></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

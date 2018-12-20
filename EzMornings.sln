@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzMornings.Android", "EzMornings\EzMornings.Android\EzMornings.Android.csproj", "{2E90A810-285D-464C-AB25-7A08C4E95B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzMornings", "EzMornings\EzMornings\EzMornings.csproj", "{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E90A810-285D-464C-AB25-7A08C4E95B72}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6FE2C4-5088-4B4D-B9E8-6839650B2575}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9E08E7-3733-450C-8128-3A1887B53E01}
+	EndGlobalSection
+EndGlobal
